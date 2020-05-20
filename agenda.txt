@@ -1,0 +1,39 @@
+Letra A
+
+Adm
+000-000
+Admin
+0000-0000
+Alan
+3333-3333
+
+Letra B
+
+Be
+2222-2222
+Beto
+001001
+
+Letra C
+
+C
+0001-0001
+Content
+9849-9102
+Conteudo
+2938-2398
+
+Letra E
+
+Euler
+9999-9999
+
+Letra J
+
+Jao
+10101010
+
+Letra Z
+
+Ze
+0101-0101
